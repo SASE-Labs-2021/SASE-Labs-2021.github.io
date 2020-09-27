@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://SASE-Labs-2021.github.io/workshops/</loc>
+    <lastmod>2020-09-27T00:02:02-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://SASE-Labs-2021.github.io/meetings/</loc>
     <lastmod>2020-09-05T13:07:03-05:00</lastmod>
   </url>
